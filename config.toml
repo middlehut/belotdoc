@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "bg"
-title = "Hugo Whisper Theme"
+title = "Белот Уики"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -13,19 +13,19 @@ pygmentsUseClasses = true
 summaryLength = 30
 
 [[menu.main]]
-    name = "Home"
+    name = "Начало"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
+    name = "Уики"
     url = "/docs/"
     weight = 2
 
 [params]
-  google_analytics_id=""
+  google_analytics_id = ""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
+  homepage_button_text = 'Към Съдържанието'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = '/images/terminal.gif'
 
@@ -33,15 +33,15 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Белот Уики съдържа информация и често задавани въпроси за играта Белот."
+    meta_og_title = "Белот Уики"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
+    meta_og_url = "https://hugo-whisper.netlify.app" # TODO
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
     meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@_middlehut_"
+    meta_twitter_creator = "@_middlehut_"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"

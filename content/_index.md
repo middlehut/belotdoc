@@ -1,6 +1,9 @@
 ---
-title: 'Hugo Whisper Docs'
-date: 2018-11-28T15:14:39+10:00
+title: 'Белот Уики'
+date: 2021-02-25T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+Тук ще намерите **описание на правилата** реализирани в 
+играта Белот, отговори на често задавани **въпроси** и друга 
+помощна информация. 
+
